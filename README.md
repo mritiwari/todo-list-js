@@ -1,4 +1,7 @@
 # **TO-DO-LIST** app using pure _javaScript_
+
+ # [Show project](https://mritiwari.github.io/todo-list-js/)
+
 ---
 In the TO DO LIST three sections are created :-
 ---
